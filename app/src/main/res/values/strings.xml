@@ -1,0 +1,269 @@
+<resources>
+<string name="app_name">Earn Money Online</string>
+<string name="bahan">Daftar Bahan : </string>
+<string name="steps">Langkah-langkah : </string>
+
+<string-array name="title_resep">
+    <item>Make Money Online with Simple Jobs </item>
+    <item>Make Money Blogging</item>
+    <item>Freelance Gigs</item>
+    <item>Google AdSense and other ad network</item>
+    <item>Make Money with Vlogging</item>
+    <item>Network Affiliate Marketing</item>
+    <item>Individual Affiliate Marketing – HostGator, Bluehost etc</item>
+    <item>Make Money with URL Shortener</item>
+    <item>Amazon or eBay Seller</item>
+    <item>Freelance Writing Work on Upwork, Elance, Fiverr etc</item>
+    <item>Writing Review</item>
+    <item>Online Consultancy</item>
+    <item>SEO Services</item>
+    <item>SEM</item>
+    <item>Newsletter Marketing</item>
+    <item>Email Marketing</item>
+    <item>Email list or Database Selling</item>
+    <item>Online HR Recruiting</item>
+    <item>Social Media Marketing</item>
+    <item>Social Media Executive / Manager</item>
+    <item>Online PR Firm</item>
+    <item>Domain Flipping</item>
+    <item>WordPress Plugins</item>
+    <item>Website Flipping</item>
+    <item>Coding Services</item>
+    <item>Web Designing with PHP</item>
+    <item>Developing Mobile Apps</item>
+    <item>Transcription</item>
+    <item>Translating</item>
+    <item>Tech Support</item>
+    <item>Web Assistant or Virtual Assistant</item>
+    <item>Data Entry Jobs</item>
+    <item>Surveys and Form Filling</item>
+    <item>Online Focus Group</item>
+    <item>Earn from Cashback sites</item>
+    <item>Online Tutoring</item>
+    <item>Get Paid to Click</item>
+    <item>Podcasting</item>
+    <item>eBooks</item>
+    <item>Columnist for a Newspaper</item>
+    <item>Digital/Online Journal</item>
+    <item>Sharing Content</item>
+    <item>Contextual Advertising, Infolink</item>
+    <item>Visual Arts and Designing Jobs</item>
+    <item>Online Journalism</item>
+    <item>Phone Apps</item>
+    <item>Giving Space to Publishing On Your Website</item>
+    <item>Membership Sites</item>
+    <item>Revenue Sharing Sites</item>
+    <item>Write for other sites</item>
+</string-array>
+
++
+<string-array name="Deskripsi_resep">
+    <item>dhaivat</item>
+    <item>dhaivat</item>
+    <item>dhaivat</item>
+    <item>dhaivat</item>
+    <item>dhaivat</item>
+</string-array>
+
+
+<string-array name="detail_resep">
+        <item>  This is the first job I recommend to anyone who wants to make money online.\n\n Micro jobs are doing short task like reading emails, completing surveys, watching videos, writing comments etc.\n\n
+Here are some of the most popular sites I can recommend you for doing simple online jobs.\n\n
+Swagbux – Best site if you are from US, UK, Canada and good for everyone.\n\n
+ClixSense – One of the great and my most favorite site.\n\n
+InboxDollars – Again the best site with good earning potential.\n\n
+BuxPmicro jobs\n
+Neobux\n
+CashCrate\n
+mTurk – One of the best crowdsourcing site.\n\n Thousands of people make enough money from this single website
+MicroWorker – Another site like Microworker.\n\n</item>
+    <item>  If you want to make big money say above $1000 then blogging is the only simple, safe method that you can start.\n\nmake money blogging.\n\n
+
+I have dozens of blogs including MoneyConnexion that give me 7 figure yearly income.\n\n
+
+Although it may take some time initially, but trust me once you are an expert, there will be nothing like blogging that can give you time freedom and huge income both.\n\n
+
+Blog is nothing but a website where you write about your favorite topic on regular basis.\n\n You use some marketing techniques like SEO to get the traffic on your blog.\n\n
+
+As traffic starts coming, you can monetize your blog with Google AdSense program or affiliate.\n\n Passion for blogging and a hobby is must.\n\n
+
+Just check here some of the best resources that will help you to make money from blog.\n\n
+        </item>
+    <item>Freelancing is the 2nd biggest opportunity on internet where people make tons of money.\n\n On the internet there are myriads of freelance gigs that you can find.\n\nmake money freelancing.\n\n
+There are dozens of popular freelance sites that offer you hundreds of different jobs that you can do for your clients.\n\n
+You can provide services like writing, web designing, data entry, virtual assistant, SEO, video maker, graphic designing and many more listed here.\n\n</item>
+    <item>Google is everything for me.\n\n I have made 90% of my total income either because of Google or directly from Google.\n\n
+Its more than 10 years, Google is regularly paying me monthly AdSense income.\n\n There is not a single month in last 10 years when I did not receive income from Google AdSense.\n\nmake money with adsense
+You must have a website or a blog to make money from AdSense.\n\n You can place AdSense ads on your website.\n\n
+People come to your website and when they click on any AdSense ads, Google pay you 68% of the amount they receive from their advertisers.\n\n
+And yes, you can even place ads from other ad networks like Google AdSense but I am sure, you will be dissatisfied.\n\n
+Here are some of the best resources that will help you with Google AdSense.\n\n</item>
+    <item>Vlogging or video blogging is where you create and upload great videos on YouTube or other video sharing sites to earn from youtube
+If your videos are special and people like it then you earn revenue by partnering with Google.\n\n Thousands of people are making good income running their own channel on YouTube.\n\n
+Here are some of the best resources to earn money online from YouTube.\n\n</item>
+    <item>Network affiliate marketing is where you sell products on behalf of companies like Clickbank, Commission Junction etc.\n\n Here you find thousands of vendors and you sell products on theirearn with affiliate marketing behalf.\n\n
+It’s always better for a beginner to work with an affiliate network because you can try number of companies and their products from a single place and even get your earnings from all these companies at a single place.\n\n
+You can check list of top affiliate networks here.\n\n</item>
+    <item>Individual affiliate marketing is different than network affiliate marketing.\n\n Here you sell on behalf of one particular company.\n\n
+The money that you receive is paid by that company not a network like Clickbank or CJ.\n\n Here you get complete flexibility and the product matches with the content of your blog.\n\n
+You can try big companies like Amazon, Flipkart, HostGator, AWeber, SEMRush or anything related to your industry.\n\n
+You can find 20+ Best Affiliate Programs here.\n\n</item>
+    <item>You can make money with URL shortener services like Google URL shortener or Bitly.\n\n You have to shortened an URL and distribute online by various means.\n\n
+Once you get traffic and when visitors click on the link then you get paid for the each click.\n\n</item>
+    <item>The best way to start is become a seller on e-commerce sites like Amazon and eBay where you can sell a lot of merchandize on their behalf.\n\nonline seller
+You easily earn a commission on each sale you make.\n\n It is very easy to get started however experience with marketing is very important.\n\n
+There are millions of sellers all over the world who make a full time living selling various items on these sites.\n\n</item>
+    <item>Writing jobs that you can do online are copywriting, ghost writing, content writing etc.\n\n You can easily find writing jobs on Upwork, Fiverr, iWriter etc.\n\n
+You take a project and get paid by your hirer.\n\n</item>
+    <item>You get paid online for writing honest review for movies, restaurants you eat or a place you visit.\n\n Companies and other third party firm need you to write a review for them.\n\n</item>
+    <item>This is best for people who has expertise in a particular field.\n\n Whether you are a teacher, doctor, feng shui expert, trainer or anyone who has some skills that can solve problem of others then you can start online consultancy.\n\n
+You can promote your services through your blog, Google+, Facebook etc.\n\n You can provide consultancy on phone or through skype.\n\n</item>
+    <item>SEO or search engine services are very hot.\n\n There are number of companies which are looking for a SEO expert that can rank their website high on the Google.\n\n
+If you have experience and know everything about SEO then go for it.\n\n You can either start an SEO business or provide freelance services.\n\n</item>
+    <item>SEM or Search engine marketing is extension of SEO.\n\n Here you focus on SEO plus marketing.\n\n These two online jobs are very hot right now and you can make a lot of money with it.\n\n
+Here you must be an expert in Google AdWords, Facebook ads, Bing ads etc.\n\n People can pay you 10% to 20% of the advertising budget.\n\n</item>
+    <item>Here you bombard your client with newsletters daily.\n\n Either they subscribed to you or you send them newsletters daily.\n\n
+You attach a sales pitch with the newsletter.\n\n You have to know the exact demographics of your client before you market a product.\n\n</item>
+    <item>Email marketing is also like newsletter marketing however here you send your clients a sales letter via an email.\n\n You send thousands of email to a list of people and convert them into future prospects.\n\n</item>
+    <item>This is quite different than previous two.\n\n Here you sell an email list to marketers.\n\n You have to have database of thousands of people which you are going to sell to marketers online.\n\n
+However database must be fresh and relevant otherwise no one would buy it.\n\n</item>
+    <item>Today after the advent of social media most of the recruiting is done online.\n\n If you are an HR recruiter then you can find candidates through LinkedIn and refer them to your client.\n\n
+However you must have a decent profile with dozens of HRs in your social network.\n\n</item>
+    <item>Social media can be used for marketing if you are familiar with Facebook, Twitter or YouTube.\n\n You can be a marketer that targets only social media.\n\n
+Companies are in great need of social media marketers.\n\n</item>
+    <item>Similarly companies also need social media manager to manage their operations on Facebook, Twitter, YouTube etc.\n\n
+You must have experience with social media platform likes Facebook where you can run a campaign for the company you are working with.\n\n
+There is also great scope of handling Twitter account of celebrities, companies or other big personalities where you will tweet on their behalf and manage the followers and responses.\n\n</item>
+    <item>Earlier Public Relations were limited to TV and newspaper.\n\n However now online is also a major platform for PR.\n\n If you have experience with PR then you start promoting people online and charge a fee.\n\n</item>
+    <item>Domain buying and selling can make you rich overnight.\n\n You buy a domain with a right name.\n\n You don’t use it but just keep it with you and sell to a bigger player for a higher rate.\n\ndomain flipping
+
+You can sell 10 to 20 times higher of your buying price.\n\n Sometime your domain might fetch you thousands of dollars.\n\n If you don’t believe, you can check this list of most expensive domains.\n\n
+
+You need to do lots of research and must have experience before you make 10 to 50 times from your purchased domains.\n\n</item>
+    <item>There are companies who want to hire or outsource their website designing task to people who know to work with WordPress theme and plugins.\n\n
+
+You also add some code to it and deliver the website to your clients.\n\n</item>
+    <item>Just like domain flipping, there is a great potential in another similar business and that is website flipping.\n\n Here you don’t sell domain but a complete website.\n\nwebsite flipping
+
+But in order to earn online, your website must be a quality website with good traffic and at least 6 months earning history.\n\n
+
+Here you buy a domain, write regular content and promote your website through social media and SEO and once you get the traffic and make some money, you can sell it.\n\n
+
+There are sites like Flippa, Empire Flippers which can help you out for getting 10-20 times of price of your monthly earning.\n\n
+
+You can also buy websites from the above platforms, work on the site to grow traffic and income and then sell it on a higher price.\n\n</item>
+    <item>You will never run out of clients if you know about coding.\n\n Coding jobs are not rare however you must know how to code.\n\n
+
+You have to write codes for fixing a given problem or designing a functionality of a website.\n\n The money is also great here.\n\n</item>
+    <item>Web designing with PHP or ASP will be quite different than setting up WordPress code or plug in.\n\n
+
+Here you will design fully fledged website with a backend database.\n\n You may also require having a team with coders, designers and testers.\n\n</item>
+    <item>App development for Android or iOS devices has always been a lucrative business.\n\n If you can develop an innovative app that solves people’s problem then you can make huge money with it.\n\n
+
+However you have to have experience with coding.\n\n
+
+You can also get the business from companies and individuals to develop a customize application for their business or services.\n\n</item>
+    <item>Transcription jobs are readily available online.\n\n You have to copy and write from one medium to another.\n\n Most of the time you will find medical transcription jobs that pays you well.\n\n</item>
+    <item>You can also find translating jobs where you will be translating from one language to another.\n\n Translating jobs are fewer in number than transcription jobs.\n\n
+
+However still you can find few translating jobs online.\n\n</item>
+    <item>Big corporations outsource their customer support to others.\n\n You can find tech support jobs online where you have to solve technology related problems.\n\n These problems can be issues related to a computer hardware or software.\n\n</item>
+    <item>You can make money online by becoming virtual assistant.\n\n Here your job we will be taking care of all the meetings and presentations that are to be held on a given date.\n\n</item>
+    <item>Data entry jobs are one of the simple way to make money online.\n\n You have to convert an image file into a word file by writing into it.\n\n There are many other types of data entry jobs available.\n\n
+
+You have to achieve an accuracy of over 99% and finish it on time.\n\n You should always look for legit data entry jobs because market is full of scammers.\n\n</item>
+    <item>There are various websites that offers you money for filling various survey forms.\n\n They pay according to number of surveys that you take.\n\n
+
+It takes 5 to 20 minutes to fill a form depending upon the survey.\n\n You get paid once you finish the survey.\n\nYou can signup with this most legit paid survey sites.\n\n</item>
+    <item>Companies like Google or Microsoft need feedback from their consumers about the product they are using.\n\n You can help them getting feedback and in return you get paid.\n\n</item>
+    <item>Do you know you can make money each time you buy something from shopping sites like Amazon, eBay etc.\n\n
+
+You need to download apps or signup sites like eBates, ShopAtHome, CashKaro etc.\n\n and then buy everything by clicking through these sites.\n\n
+
+You can get 2% to 5% of the amount of your total purchase as cashback from these sites.\n\n</item>
+    <item>Websites like Tutor.\n\ncom can help you finding tutoring jobs.\n\n Here you are going to teach children online via Skype or other software.\n\n You can choose a subject that you know the best.\n\n</item>
+    <item>You can get paid to click on a link.\n\n This is called PTC or paid to click jobs.\n\n You just have to click a link and stay there for 2 to 3 minutes.\n\n
+
+You get paid a small amount for this particular task.\n\n</item>
+    <item>Podcasting is a great way to make money online.\n\n If you know about a subject like finance or current affairs then you can record videos and sell it online.\n\n
+
+People are ready to buy your podcast videos for few dollars.\n\n</item>
+    <item>Write eBooks and sell online.\n\n If you know about a particular subject like training your dog, cooking, music or marketing then you can create an eBook and sell it online for $1 or $20 per copy as per your own valuation.\n\n</item>
+    <item>You can write for an online version of a newspaper.\n\n You can write a column and get paid for each word you write.\n\n Online columnists are in great demand these days.\n\n</item>
+    <item>Digital journal is also like writing for an online version of a newspaper.\n\n However the difference is digital journal doesn’t have any offline presence.\n\n
+
+You write columns as a web journalist.\n\n</item>
+    <item>If you can create content which can go viral then you can make a lot of money.\n\n
+
+Your content will be shared around the internet and you will get paid.\n\n However you have to create great content every time.\n\n</item>
+    <item>If your blog is getting some traffic then you can monetize it with contextual advertising and infolinks.\n\n
+
+You get paid for showing ads and anchor texts that contains a link.\n\n</item>
+    <item>If you know about designing then you can find jobs on websites like 99 designs or Envato Studio.\n\n
+
+These sites have a huge number of members who are making money by designing various cover of magazines and online publications.\n\n</item>
+    <item>Online journalism or web journalism is nothing new and it is getting better day by day.\n\n You write for an online version of cable TV news network.\n\n
+
+You work with their web desk.\n\n</item>
+    <item>There are various smartphone applications that pay you if you perform certain tasks.\n\n If you shop using an app then they pay you once you have completed a task.\n\n</item>
+    <item>If your blog or website is very popular and getting huge traffic then you can sell some space of your site for marketing.\n\n You can set a price for showing ads on your website.\n\n</item>
+    <item>Similarly you can create a site that solves a particular problem that people are looking for.\n\n Later on as traffic increases you can start charging for becoming a member so they can access more serious content.\n\n
+
+Creating a membership is very easy through WordPress.\n\n Either you can buy a theme or plugin to make your site as membership site.\n\n</item>
+    <item>If you have something to share with the world, then there are many sites where you can write your expertise or experience and make money through Google AdSense or affiliate programs.\n\n
+
+You need to learn little bit about keyword research and SEO so that you can apply this on your written post and get more traffic.\n\n</item>
+    <item>There are many revenue sharing sites like InfoBarrel.\n\ncom, HubPages, Xomba, Snipsly where you can signup, write articles and start earning.\n\n</item>
+    <item>Can’t have your own blog then you can write for some other established sites or bloggers on the internet.\n\n You can contact them in person and decide on rates for each blog post you write.\n\n
+
+Your writing quality must be exceptional if you want to make big money from this.\n\n There are sites that can pay you up to $200 for each post.\n\n</item>
+
+
+</string-array>
+
+
+<string-array name="step_resep">
+        <item>  This is the first job I recommend to anyone who wants to make money online. Micro jobs are doing short task like reading emails, completing surveys, watching videos, writing comments etc.\n
+
+Here are some of the most popular sites I can recommend you for doing simple online jobs.\n
+Swagbux – Best site if you are from US, UK, Canada and good for everyone.\n
+ClixSense – One of the great and my most favorite site.\n
+InboxDollars – Again the best site with good earning potential.\n
+BuxPmicro jobs\n
+Neobux\n
+CashCrate\n
+mTurk – One of the best crowdsourcing site. Thousands of people make enough money from this single website
+MicroWorker – Another site like Microworker.</item>
+    <item>  If you want to make big money say above $1000 then blogging is the only simple, safe method that you can start.\nmake money blogging.\n
+
+I have dozens of blogs including MoneyConnexion that give me 7 figure yearly income.\n
+
+Although it may take some time initially, but trust me once you are an expert, there will be nothing like blogging that can give you time freedom and huge income both.\n
+
+Blog is nothing but a website where you write about your favorite topic on regular basis.\n You use some marketing techniques like SEO to get the traffic on your blog.\n
+
+As traffic starts coming, you can monetize your blog with Google AdSense program or affiliate.\n Passion for blogging and a hobby is must.\n
+
+Just check here some of the best resources that will help you to make money from blog.\n
+        </item>
+    <item>  1. tumis bawang putih dan bawang bombay\n
+                2. masukkan jahe dan cabe\n
+                3. masukkan cumi, saus tiram, kecap, garam, merica\n
+                4. Masak sampai cumi empuk\n
+                5. yummy!\n
+                6. Selamat mencoba\n\n
+        </item>
+    <item>  1. tumis bawang putih dan bawang bombay\n
+                2. masukkan cumi, masak hingga cumi matang\n
+                3. masukkan cabe hijau, jamur dan bumbu lainnya. Aduk rata\n
+                4. masukan nanas, minyak wijen\n
+                5. terakhir larutan maizena\n
+                6. yummy!\n</item>
+    <item>  1. didihkan air kaldu, masukan semua bahan kuah\n
+                2. Tumis bawang putih dan bawang bombay\n
+                3. masukan wortel dan jamur kuping\n
+                4. tuangi kuah\n
+                5. masukan kapri dan ati ampela. Masak hingga bumbu meresap\n
+                6. Yummy!\n\n</item>
+</string-array>
+</resources>
